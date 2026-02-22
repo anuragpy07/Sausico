@@ -1,27 +1,15 @@
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&height=70&lines=🎵+Sausico+Music+Player" 
-  />
-  <br/>
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=A+Modern+High-Performance+JioSaavn+Client;Immersive+Audio+Experience;Built+with+React+Native+%2B+Expo;Fast%2C+Seamless%2C+and+Responsive" 
-  />
-</p>
+# Sausico
 
-<p align="center">
-  <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React%20Native-0.81-61DAFB?style=flat&logo=react&logoColor=white" alt="React Native" /></a>
-  <a href="https://expo.dev/"><img src="https://img.shields.io/badge/Expo-SDK%2054-000020?style=flat&logo=expo&logoColor=white" alt="Expo" /></a>
-  <a href="https://www.android.com/"><img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Platform" /></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat" alt="License" /></a>
-</p>
+### A Modern, High-Performance JioSaavn Client
 
-<h1 align="center">Sausico</h1>
-<h3 align="center">A Modern, High-Performance JioSaavn Client</h3>
+[![React Native](https://img.shields.io/badge/React%20Native-0.81-61DAFB?style=flat&logo=react&logoColor=white)](https://reactnative.dev/)
+[![Expo](https://img.shields.io/badge/Expo-SDK%2054-000020?style=flat&logo=expo&logoColor=white)](https://expo.dev/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat)](LICENSE)
+[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat&logo=android&logoColor=white)](https://www.android.com/)
 
-<p align="center">
-  <strong>Experience music streaming reimagined with cutting-edge technology and thoughtful design.</strong><br>
-  🌐 <b>Website:</b> <a href="https://sausico.pages.dev">https://sausico.pages.dev</a>
-</p>
+**Experience music streaming reimagined with cutting-edge technology and thoughtful design.**
+
+🌐 **Website:** Coming soon
 
 ---
 
@@ -53,13 +41,13 @@ Choose the build that matches your device architecture.
 
 ---
 
-## 🤔 Why Sausico?
+### Why Sausico?
 
-* 🏗️ **Production-Ready Architecture** – Built for scale and maintainability
-* ⚡ **Blazing Fast** – Optimized with MMKV storage and efficient state management
-* 🎨 **Beautiful UI/UX** – Dynamic theming and smooth animations
-* 🔊 **Professional Playback** – Background audio, queue management, and rich controls
-* 🧪 **Modern Stack** – React 19, Expo SDK 54, React Native 0.81
+- 🏗️ Production-ready architecture built for scale
+- ⚡ Optimized performance using MMKV storage
+- 🎨 Clean UI with smooth animations
+- 🔊 Background playback & queue management
+- 🧪 Modern stack (React Native + Expo)
 
 ---
 
