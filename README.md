@@ -169,10 +169,12 @@ npx expo start --dev-client
 
 # 4. Launch the app
 # Open the installed development client on your device and it will automatically connect to Metro.
+```
 
 🐛 Troubleshooting
 Common Issues
-Bash
+
+```bash
 # ==========================================
 # 1. App crashes on launch
 # ==========================================
@@ -207,22 +209,38 @@ npm run android
 npx expo start -c
 watchman watch-del-all  # If using watchman
 rm -rf node_modules && npm install
+```
 📄 Legal Notice
 This is an unofficial application.
 
-Not affiliated with, endorsed by, or connected to JioSaavn
+• Not affiliated with, endorsed by, or connected to JioSaavn
 
-Does not host, store, or redistribute any copyrighted content
+• Does not host, store, or redistribute any copyrighted content
 
-All media data and URLs are fetched from publicly accessible APIs
+• All media data and URLs are fetched from publicly accessible APIs
 
-Usage compliance is the sole responsibility of the end user
+• Usage compliance is the sole responsibility of the end user
 
-This project is intended for educational and personal use only. Please respect copyright laws and support artists by using official platforms.
+• This project is intended for educational and personal use only. Please respect copyright laws and support artists by using official platforms.
+
+---
+
+🤝 Contributing
+
+Feel free to open issues or submit pull requests for improvements.
+
+---
 
 📜 License
 MIT © 2026 Anurag Kumar
 
-See LICENSE for details.
+See **LICENSE** for details.
 
 Built by Anurag Kumar with a focus on correctness and longevity.
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub — it really helps!
+
+Also, feel free to **follow me on GitHub** for more projects and updates:
+👉 https://github.com/anuragpy07
