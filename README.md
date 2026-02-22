@@ -25,14 +25,14 @@
 
 ---
 
-## 📌 Table of Contents
+### 📌 Table of Contents
+
 - [⬇ Download](#-download)
-- [🤔 Why Sausico?](#-why-sausico)
 - [✨ Features](#-features)
-- [📱 Screenshots](#-screenshots)
-- [🚀 Quick Start](#-quick-start)
-- [🐛 Troubleshooting](#-troubleshooting)
-- [📄 Legal Notice](#-legal-notice)
+- [🖼 Screenshots](#-screenshots)
+- [⚡ Quick Start](#-quick-start)
+- [🛠 Troubleshooting](#-troubleshooting)
+- [⚖ Legal Notice](#-legal-notice)
 
 ---
 
@@ -40,16 +40,16 @@
 
 **Current Version:** `v1.0.1`
 
-Choose the build that matches your device architecture:
+Choose the build that matches your device architecture.
 
 | Build Variant | Device Compatibility | Download |
-|---|---|---|
-| `arm64-v8a` | Modern Android devices (2015+) | *(Add Link Here)* |
-| `armeabi-v7a` | Older Android devices (pre-2015) | *(Add Link Here)* |
-| `x86_64` | Emulators and x86-based devices | *(Add Link Here)* |
-| `x86` | Legacy emulators | *(Add Link Here)* |
+|---------------|---------------------|----------|
+| **arm64-v8a** | Modern Android devices (2015+) | https://github.com/anuragpy07/Sausico/releases/download/v1.0.1/app-arm64-v8a-release.apk |
+| **armeabi-v7a** | Older Android devices (pre-2015) | https://github.com/anuragpy07/Sausico/releases/download/v1.0.1/app-armeabi-v7a-release.apk |
+| **x86_64** | Emulators and x86-based devices | https://github.com/anuragpy07/Sausico/releases/download/v1.0.1/app-x86_64-release.apk |
+| **x86** | Legacy emulators | https://github.com/anuragpy07/Sausico/releases/download/v1.0.1/app-x86-release.apk |
 
-> 💡 **Quick Guide:** Download `arm64-v8a` first. If it installs successfully, you've got the right one. If installation fails, try `armeabi-v7a` instead.
+> Download arm64-v8a first. If installation fails, try armeabi-v7a.
 
 ---
 
