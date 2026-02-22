@@ -15,8 +15,6 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat" alt="License" /></a>
 </p>
 
-# Sausico
-
 ### A Modern, High-Performance JioSaavn Client
 
 [![React Native](https://img.shields.io/badge/React%20Native-0.81-61DAFB?style=flat&logo=react&logoColor=white)](https://reactnative.dev/)
