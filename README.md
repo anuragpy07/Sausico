@@ -1,3 +1,20 @@
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&height=70&lines=🎵+Sausico+Music+Player" 
+  />
+  <br/>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=A+Modern+High-Performance+JioSaavn+Client;Immersive+Audio+Experience;Built+with+React+Native+%2B+Expo;Fast%2C+Seamless%2C+and+Responsive" 
+  />
+</p>
+
+<p align="center">
+  <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React%20Native-0.81-61DAFB?style=flat&logo=react&logoColor=white" alt="React Native" /></a>
+  <a href="https://expo.dev/"><img src="https://img.shields.io/badge/Expo-SDK%2054-000020?style=flat&logo=expo&logoColor=white" alt="Expo" /></a>
+  <a href="https://www.android.com/"><img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Platform" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat" alt="License" /></a>
+</p>
+
 # Sausico
 
 ### A Modern, High-Performance JioSaavn Client
