@@ -1,26 +1,38 @@
-# Sausico
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&height=70&lines=🎵+Sausico+Music+Player" 
+  />
+  <br/>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=A+Modern+High-Performance+JioSaavn+Client;Immersive+Audio+Experience;Built+with+React+Native+%2B+Expo;Fast%2C+Seamless%2C+and+Responsive" 
+  />
+</p>
 
-### A Modern, High-Performance JioSaavn Client
+<p align="center">
+  <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React%20Native-0.81-61DAFB?style=flat&logo=react&logoColor=white" alt="React Native" /></a>
+  <a href="https://expo.dev/"><img src="https://img.shields.io/badge/Expo-SDK%2054-000020?style=flat&logo=expo&logoColor=white" alt="Expo" /></a>
+  <a href="https://www.android.com/"><img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Platform" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat" alt="License" /></a>
+</p>
 
-[![React Native](https://img.shields.io/badge/React%20Native-0.81-61DAFB?style=flat&logo=react&logoColor=white)](https://reactnative.dev/)
-[![Expo](https://img.shields.io/badge/Expo-SDK%2054-000020?style=flat&logo=expo&logoColor=white)](https://expo.dev/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat&logo=android&logoColor=white)](https://www.android.com/)
+<h1 align="center">Sausico</h1>
+<h3 align="center">A Modern, High-Performance JioSaavn Client</h3>
 
-**Experience music streaming reimagined with cutting-edge technology and thoughtful design.**
-
-🌐 **Website:** Coming soon
+<p align="center">
+  <strong>Experience music streaming reimagined with cutting-edge technology and thoughtful design.</strong><br>
+  🌐 <b>Website:</b> <a href="https://sausico.pages.dev">https://sausico.pages.dev</a>
+</p>
 
 ---
 
-### 📌 Table of Contents
-
+## 📌 Table of Contents
 - [⬇ Download](#-download)
+- [🤔 Why Sausico?](#-why-sausico)
 - [✨ Features](#-features)
-- [🖼 Screenshots](#-screenshots)
-- [⚡ Quick Start](#-quick-start)
-- [🛠 Troubleshooting](#-troubleshooting)
-- [⚖ Legal Notice](#-legal-notice)
+- [📱 Screenshots](#-screenshots)
+- [🚀 Quick Start](#-quick-start)
+- [🐛 Troubleshooting](#-troubleshooting)
+- [📄 Legal Notice](#-legal-notice)
 
 ---
 
@@ -28,26 +40,26 @@
 
 **Current Version:** `v1.0.1`
 
-Choose the build that matches your device architecture.
+Choose the build that matches your device architecture:
 
 | Build Variant | Device Compatibility | Download |
-|---------------|---------------------|----------|
-| **arm64-v8a** | Modern Android devices (2015+) | https://github.com/anuragpy07/Sausico/releases/download/v1.0.1/app-arm64-v8a-release.apk |
-| **armeabi-v7a** | Older Android devices (pre-2015) | https://github.com/anuragpy07/Sausico/releases/download/v1.0.1/app-armeabi-v7a-release.apk |
-| **x86_64** | Emulators and x86-based devices | https://github.com/anuragpy07/Sausico/releases/download/v1.0.1/app-x86_64-release.apk |
-| **x86** | Legacy emulators | https://github.com/anuragpy07/Sausico/releases/download/v1.0.1/app-x86-release.apk |
+|---|---|---|
+| `arm64-v8a` | Modern Android devices (2015+) | [![Download](https://img.shields.io/badge/DOWNLOAD-4ade80?style=for-the-badge&logo=android&logoColor=white)](https://github.com/anuragpy07/Sausico/releases/download/v1.0.1/app-arm64-v8a-release.apk) |
+| `armeabi-v7a` | Older Android devices (pre-2015) | [![Download](https://img.shields.io/badge/DOWNLOAD-6366f1?style=for-the-badge&logo=android&logoColor=white)](https://github.com/anuragpy07/Sausico/releases/download/v1.0.1/app-armeabi-v7a-release.apk) |
+| `x86_64` | Emulators and x86-based devices | [![Download](https://img.shields.io/badge/DOWNLOAD-0ea5e9?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/anuragpy07/Sausico/releases/download/v1.0.1/app-x86_64-release.apk) |
+| `x86` | Legacy emulators | [![Download](https://img.shields.io/badge/DOWNLOAD-64748b?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/anuragpy07/Sausico/releases/download/v1.0.1/app-x86-release.apk) |
 
-> Download arm64-v8a first. If installation fails, try armeabi-v7a.
+> 💡 **Quick Guide:** Download `arm64-v8a` first. If it installs successfully, you've got the right one. If installation fails, try `armeabi-v7a` instead.
 
 ---
 
-### Why Sausico?
+## 🤔 Why Sausico?
 
-- 🏗️ Production-ready architecture built for scale
-- ⚡ Optimized performance using MMKV storage
-- 🎨 Clean UI with smooth animations
-- 🔊 Background playback & queue management
-- 🧪 Modern stack (React Native + Expo)
+* 🏗️ **Production-Ready Architecture** – Built for scale and maintainability
+* ⚡ **Blazing Fast** – Optimized with MMKV storage and efficient state management
+* 🎨 **Beautiful UI/UX** – Dynamic theming and smooth animations
+* 🔊 **Professional Playback** – Background audio, queue management, and rich controls
+* 🧪 **Modern Stack** – React 19, Expo SDK 54, React Native 0.81
 
 ---
 
