@@ -1,38 +1,26 @@
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&height=70&lines=🎵+Sausico+Music+Player" 
-  />
-  <br/>
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=A+Modern+High-Performance+JioSaavn+Client;Immersive+Audio+Experience;Built+with+React+Native+%2B+Expo;Fast%2C+Seamless%2C+and+Responsive" 
-  />
-</p>
+# Sausico
 
-<p align="center">
-  <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React%20Native-0.81-61DAFB?style=flat&logo=react&logoColor=white" alt="React Native" /></a>
-  <a href="https://expo.dev/"><img src="https://img.shields.io/badge/Expo-SDK%2054-000020?style=flat&logo=expo&logoColor=white" alt="Expo" /></a>
-  <a href="https://www.android.com/"><img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Platform" /></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat" alt="License" /></a>
-</p>
+### A Modern, High-Performance JioSaavn Client
 
-<h1 align="center">Sausico</h1>
-<h3 align="center">A Modern, High-Performance JioSaavn Client</h3>
+[![React Native](https://img.shields.io/badge/React%20Native-0.81-61DAFB?style=flat&logo=react&logoColor=white)](https://reactnative.dev/)
+[![Expo](https://img.shields.io/badge/Expo-SDK%2054-000020?style=flat&logo=expo&logoColor=white)](https://expo.dev/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat)](LICENSE)
+[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat&logo=android&logoColor=white)](https://www.android.com/)
 
-<p align="center">
-  <strong>Experience music streaming reimagined with cutting-edge technology and thoughtful design.</strong><br>
-  🌐 <b>Website:</b> <a href="https://sausico.pages.dev">https://sausico.pages.dev</a>
-</p>
+**Experience music streaming reimagined with cutting-edge technology and thoughtful design.**
+
+🌐 **Website:** https://sausico.pages.dev
 
 ---
 
-## 📌 Table of Contents
+### 📌 Table of Contents
+
 - [⬇ Download](#-download)
-- [🤔 Why Sausico?](#-why-sausico)
 - [✨ Features](#-features)
-- [📱 Screenshots](#-screenshots)
-- [🚀 Quick Start](#-quick-start)
-- [🐛 Troubleshooting](#-troubleshooting)
-- [📄 Legal Notice](#-legal-notice)
+- [🖼 Screenshots](#-screenshots)
+- [⚡ Quick Start](#-quick-start)
+- [🛠 Troubleshooting](#-troubleshooting)
+- [⚖ Legal Notice](#-legal-notice)
 
 ---
 
@@ -40,207 +28,379 @@
 
 **Current Version:** `v1.0.1`
 
-Choose the build that matches your device architecture:
+Choose the build that matches your device architecture.
 
 | Build Variant | Device Compatibility | Download |
-|---|---|---|
-| `arm64-v8a` | Modern Android devices (2015+) | [![Download](https://img.shields.io/badge/DOWNLOAD-4ade80?style=for-the-badge&logo=android&logoColor=white)](https://github.com/anuragpy07/Sausico/releases/download/v1.0.1/app-arm64-v8a-release.apk) |
-| `armeabi-v7a` | Older Android devices (pre-2015) | [![Download](https://img.shields.io/badge/DOWNLOAD-6366f1?style=for-the-badge&logo=android&logoColor=white)](https://github.com/anuragpy07/Sausico/releases/download/v1.0.1/app-armeabi-v7a-release.apk) |
-| `x86_64` | Emulators and x86-based devices | [![Download](https://img.shields.io/badge/DOWNLOAD-0ea5e9?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/anuragpy07/Sausico/releases/download/v1.0.1/app-x86_64-release.apk) |
-| `x86` | Legacy emulators | [![Download](https://img.shields.io/badge/DOWNLOAD-64748b?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/anuragpy07/Sausico/releases/download/v1.0.1/app-x86-release.apk) |
+|---------------|---------------------|----------|
+| **arm64-v8a** | Modern Android devices (2015+) | [![Download arm64-v8a](https://img.shields.io/badge/Download-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/saavn-labs/app/releases/download/v1.0.1/app-arm64-v8a-release.apk) |
+| **armeabi-v7a** | Older Android devices (pre-2015) | [![Download armeabi-v7a](https://img.shields.io/badge/Download-5C6BC0?style=for-the-badge&logo=android&logoColor=white)](https://github.com/saavn-labs/app/releases/download/v1.0.1/app-armeabi-v7a-release.apk) |
+| **x86_64** | Emulators and x86-based devices | [![Download x86_64](https://img.shields.io/badge/Download-0288D1?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/saavn-labs/app/releases/download/v1.0.1/app-x86_64-release.apk) |
+| **x86** | Legacy emulators | [![Download x86](https://img.shields.io/badge/Download-607D8B?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/saavn-labs/app/releases/download/v1.0.1/app-x86-release.apk) |
 
-> 💡 **Quick Guide:** Download `arm64-v8a` first. If it installs successfully, you've got the right one. If installation fails, try `armeabi-v7a` instead.
+> **Quick Guide:** Download arm64-v8a first. If it installs successfully, you've got the right one. If installation fails, try armeabi-v7a instead.
 
 ---
 
-## 🤔 Why Sausico?
+### Why Sausico?
 
-* 🏗️ **Production-Ready Architecture** – Built for scale and maintainability
-* ⚡ **Blazing Fast** – Optimized with MMKV storage and efficient state management
-* 🎨 **Beautiful UI/UX** – Dynamic theming and smooth animations
-* 🔊 **Professional Playback** – Background audio, queue management, and rich controls
-* 🧪 **Modern Stack** – React 19, Expo SDK 54, React Native 0.81
+- 🏗️ **Production-Ready Architecture** – Built for scale and maintainability
+- ⚡ **Blazing Fast** – Optimized with MMKV storage and efficient state management
+- 🎨 **Beautiful UI/UX** – Dynamic theming and smooth animations
+- 🔊 **Professional Playback** – Background audio, queue management, and rich controls
+- 🧪 **Modern Stack** – React 19, Expo SDK 54, React Native 0.81
 
 ---
 
 ## ✨ Features
 
-### 🎧 Audio Experience
-* Background audio playback with foreground service
-* Seamless queue management (play next, add to queue)
-* Full media controls (seek, skip, repeat, shuffle)
-* Android lock-screen & notification controls
-* Gapless playback support
-* Audio focus handling
-
-### 🔍 Discovery & Search
-* Powerful search across songs, albums, artists, playlists
-* Voice search with on-device speech recognition
-* Curated home feed with personalized content
-* Trending charts and new releases
-* Genre-based browsing
-* Smart recommendations
-
-### 📚 Library Management
-* Favorites and collections
-* Listening history tracking
-* Offline downloads support
-* Custom playlist creation
-* Recently played quick access
-* Library sync and backup
-
-### 🎨 UI & Design
-* Dynamic color theming from album artwork
-* Mini-player with gesture controls
-* Immersive full-screen player
-* Smooth transitions and animations
-* Tablet-optimized layouts
-* Dark mode support
-* Global snackbar feedback system
+<table>
+  <tr>
+    <td width="50%">
+      
+### 🎧 **Audio Experience**
+      
+- Background audio playback with foreground service
+- Seamless queue management (play next, add to queue)
+- Full media controls (seek, skip, repeat, shuffle)
+- Android lock-screen & notification controls
+- Gapless playback support
+- Audio focus handling
+      
+    </td>
+    <td width="50%">
+      
+### 🔍 **Discovery & Search**
+      
+- Powerful search across songs, albums, artists, playlists
+- Voice search with on-device speech recognition
+- Curated home feed with personalized content
+- Trending charts and new releases
+- Genre-based browsing
+- Smart recommendations
+      
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      
+### 📚 **Library Management**
+      
+- Favorites and collections
+- Listening history tracking
+- Offline downloads support
+- Custom playlist creation
+- Recently played quick access
+- Library sync and backup
+      
+    </td>
+    <td width="50%">
+      
+### 🎨 **UI & Design**
+      
+- Dynamic color theming from album artwork
+- Mini-player with gesture controls
+- Immersive full-screen player
+- Smooth transitions and animations
+- Tablet-optimized layouts
+- Dark mode support
+- Global snackbar feedback system
+      
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📱 Screenshots
 
-### 🎵 Core Experience
-| Home Feed | Full Player | Downloads |
-|:---:|:---:|:---:|
-| ![Home Feed](assets/images/screenshots/home.png) | ![Full Player](assets/images/screenshots/full-player.png) | ![Downloads](assets/images/screenshots/downloads.png) |
-| *Trending content and suggestions* | *Immersive playback experience* | *Offline content management* |
+### Core Experience
 
-### 🔍 Search & Discovery
-| Search Interface | Search Results | Voice Search |
-|:---:|:---:|:---:|
-| ![Search Interface](assets/images/screenshots/search-interface.png) | ![Search Results](assets/images/screenshots/search-results.png) | ![Voice Search](assets/images/screenshots/search-voice.png) |
-| *Full text search over categories* | *Categorized results with quick filters* | *On-Device Voice Search* |
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="assets/images/screenshots/home.png" alt="Home Screen" width="250"/>
+      <br/>
+      <b>Home Feed</b>
+      <br/>
+      <sub>Trending content and suggestions</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/images/screenshots/full-player.png" alt="Full Player" width="250"/>
+      <br/>
+      <b>Full Player</b>
+      <br/>
+      <sub>Immersive playback experience</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/images/screenshots/downloads.png" alt="Downloads" width="250"/>
+      <br/>
+      <b>Downloads</b>
+      <br/>
+      <sub>Offline content management</sub>
+    </td>
+  </tr>
+</table>
 
-### 🎧 Media Details
-| Album View | Artist Profile | Playlist View |
-|:---:|:---:|:---:|
-| ![Album View](assets/images/screenshots/details-album.png) | ![Artist Profile](assets/images/screenshots/details-artist.png) | ![Playlist View](assets/images/screenshots/details-playlist.png) |
-| *Complete album information* | *Top tracks & discography* | *Curated & custom playlists* |
+### Search & Discovery
 
-### 📚 Library & Collections
-| Favorites | Collections | Custom Collection |
-|:---:|:---:|:---:|
-| ![Favorites](assets/images/screenshots/library-favorites.png) | ![Collections](assets/images/screenshots/library-collections-1.png) | ![Custom Collection](assets/images/screenshots/library-collections-2.png) |
-| *Liked songs & albums* | *Organized library sections* | *User-defined music collections* |
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="assets/images/screenshots/search-interface.png" alt="Search" width="250"/>
+      <br/>
+      <b>Search Interface</b>
+      <br/>
+      <sub>Full text search over categories</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/images/screenshots/search-results.png" alt="Search Results" width="250"/>
+      <br/>
+      <b>Search Results</b>
+      <br/>
+      <sub>Categorized results with quick filters</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/images/screenshots/search-voice.png" alt="Voice Search" width="250"/>
+      <br/>
+      <b>Voice Search</b>
+      <br/>
+      <sub>On-Device Voice Search</sub>
+    </td>
+  </tr>
+</table>
 
-### ⭐ Bonus Features
-| Track Menu | Audio Quality | History |
-|:---:|:---:|:---:|
-| ![Track Menu](assets/images/screenshots/track-menu.png) | ![Audio Quality](assets/images/screenshots/audio-quality.png) | ![History](assets/images/screenshots/history.png) |
-| *Context menu with rich actions* | *High fidelity playback options* | *List of recently played tracks* |
+### Media Details
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="assets/images/screenshots/details-album.png" alt="Album Details" width="250"/>
+      <br/>
+      <b>Album View</b>
+      <br/>
+      <sub>Complete album information</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/images/screenshots/details-artist.png" alt="Artist Details" width="250"/>
+      <br/>
+      <b>Artist Profile</b>
+      <br/>
+      <sub>Top tracks & discography</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/images/screenshots/details-playlist.png" alt="Playlist Details" width="250"/>
+      <br/>
+      <b>Playlist View</b>
+      <br/>
+      <sub>Curated & custom playlists</sub>
+    </td>
+  </tr>
+</table>
+
+### Library & Collections
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="assets/images/screenshots/library-favorites.png" alt="Favorites" width="250"/>
+      <br/>
+      <b>Favorites</b>
+      <br/>
+      <sub>Liked songs & albums</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/images/screenshots/library-collections-1.png" alt="Collections" width="250"/>
+      <br/>
+      <b>Collections</b>
+      <br/>
+      <sub>Organized library sections</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/images/screenshots/library-collections-2.png" alt="Collections" width="250"/>
+      <br/>
+      <b>Custom Collection</b>
+      <br/>
+      <sub>User-defined music collections</sub>
+    </td>
+  </tr>
+</table>
+
+### Bonus Features
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="assets/images/screenshots/track-menu.png" alt="Track Menu" width="250"/>
+      <br/>
+      <b>Track Menu</b>
+      <br/>
+      <sub>Context menu with rich actions</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/images/screenshots/audio-quality.png" alt="Audio Quality" width="250"/>
+      <br/>
+      <b>Audio Quality</b>
+      <br/>
+      <sub>High fidelity playback options</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/images/screenshots/history.png" alt="History" width="250"/>
+      <br/>
+      <b>History</b>
+      <br/>
+      <sub>List of recently played tracks</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Quick Start
 
 ### Prerequisites
+
 Before you begin, ensure you have the following installed:
 
-| Requirement | Version | Download |
-|---|---|---|
-| Node.js | 18.x or higher | [nodejs.org](https://nodejs.org/) |
-| Java JDK | 17 (recommended) | [Oracle JDK](https://www.oracle.com/java/technologies/downloads/) |
-| Android SDK | Latest | Via Android Studio |
-| Android Device/Emulator | API 21+ | Android Studio |
+| Requirement                 | Version          | Download                                                          |
+| --------------------------- | ---------------- | ----------------------------------------------------------------- |
+| **Node.js**                 | 18.x or higher   | [nodejs.org](https://nodejs.org/)                                 |
+| **Java JDK**                | 17 (recommended) | [Oracle JDK](https://www.oracle.com/java/technologies/downloads/) |
+| **Android SDK**             | Latest           | Via Android Studio                                                |
+| **Android Device/Emulator** | API 21+          | [Android Studio](https://developer.android.com/studio)            |
 
-> ⚠️ **Important Notice** > This project uses native modules and cannot run in **Expo Go**. You must build and run a development client.
+> **⚠️ Important Notice**
+>
+> This project uses native modules and cannot run in **Expo Go**. You must build and run a **development client**.
 
-### 💻 Installation
+### Installation
+
+1. **Clone the repository**
 
 ```bash
-# 1. Clone the repository
-git clone [https://github.com/anuragpy07/Sausico.git](https://github.com/anuragpy07/Sausico.git)
-cd Sausico
+git clone https://github.com/anuragpy07/Sausico
+cd app
+```
 
-# 2. Install dependencies (Choose one)
+2. **Install dependencies**
+
+```bash
+# Using npm
 npm install
-# OR yarn install
-# OR bun install
 
-# 3. Build and run development client
+# Using yarn
+yarn install
+
+# Using bun
+bun install
+```
+
+3. **Build and run development client**
+
+```bash
 # Build and install on connected Android device/emulator
 npm run android
 
 # Start the Metro bundler
 npx expo start --dev-client
-
-# 4. Launch the app
-# Open the installed development client on your device and it will automatically connect to Metro.
 ```
 
-🐛 Troubleshooting
-Common Issues
+4. **Launch the app**
+
+Open the installed development client on your device and it will automatically connect to Metro.
+
+---
+
+## 🐛 Troubleshooting
+
+### Common Issues
+
+<details>
+<summary><b>App crashes on launch</b></summary>
+
+**Solution:**
 
 ```bash
-# ==========================================
-# 1. App crashes on launch
-# ==========================================
 # Rebuild the development client
 npm run android
+
 # Clear Metro cache
 npx expo start -c
+```
 
-# ==========================================
-# 2. No audio playback
-# ==========================================
-# Possible causes: Development client not properly installed, Android audio focus not granted, or Service not registered in AndroidManifest.xml.
+</details>
+
+<details>
+<summary><b>No audio playback</b></summary>
+
+**Possible causes:**
+
+- Development client not properly installed
+- Android audio focus not granted
+- Service not registered in `AndroidManifest.xml`
+
+**Solution:**
+
+```bash
 # Reinstall with clean build
 cd android && ./gradlew clean
 cd .. && npm run android
+```
 
-# ==========================================
-# 3. Build errors with Gradle
-# ==========================================
+</details>
+
+<details>
+<summary><b>Build errors with Gradle</b></summary>
+
+**Solution:**
+
+```bash
 # Clean Gradle cache
 cd android
 ./gradlew clean
 rm -rf .gradle
 cd ..
+
 # Rebuild
 npm run android
+```
 
-# ==========================================
-# 4. Metro bundler issues
-# ==========================================
+</details>
+
+<details>
+<summary><b>Metro bundler issues</b></summary>
+
+**Solution:**
+
+```bash
 # Clear all caches
 npx expo start -c
 watchman watch-del-all  # If using watchman
 rm -rf node_modules && npm install
 ```
-📄 Legal Notice
-This is an unofficial application.
 
-• Not affiliated with, endorsed by, or connected to JioSaavn
-
-• Does not host, store, or redistribute any copyrighted content
-
-• All media data and URLs are fetched from publicly accessible APIs
-
-• Usage compliance is the sole responsibility of the end user
-
-• This project is intended for educational and personal use only. Please respect copyright laws and support artists by using official platforms.
+</details>
 
 ---
 
-🤝 Contributing
+## 📄 Legal Notice
 
-Feel free to open issues or submit pull requests for improvements.
+**This is an unofficial application.**
+
+- Not affiliated with, endorsed by, or connected to JioSaavn
+- Does not host, store, or redistribute any copyrighted content
+- All media data and URLs are fetched from publicly accessible APIs
+- Usage compliance is the sole responsibility of the end user
+
+This project is intended for **educational and personal use only**. Please respect copyright laws and support artists by using official platforms.
 
 ---
 
-📜 License
-MIT © 2026 Anurag Kumar
+## License
 
-See **LICENSE** for details.
+**MIT** © 2026 
 
-Built by Anurag Kumar with a focus on correctness and longevity.
+See [LICENSE](./LICENSE) for details.
 
-## ⭐ Support
+---
 
-If you like this project, consider giving it a ⭐ on GitHub — it really helps!
-
-Also, feel free to **follow me on GitHub** for more projects and updates:
-👉 https://github.com/anuragpy07
+Built by **Anurag Kumar** with a focus on correctness and longevity.
