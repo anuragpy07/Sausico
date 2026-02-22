@@ -79,8 +79,43 @@ Choose the build that matches your device architecture.
 
 ## 📱 Screenshots
 
-> Add screenshots inside:
-> `assets/images/screenshots/`
+### 🎵 Core Experience
+
+![Home](assets/images/screenshots/home.png)
+![Full Player](assets/images/screenshots/full-player.png)
+![Downloads](assets/images/screenshots/downloads.png)
+
+---
+
+### 🔍 Search & Discovery
+
+![Search Interface](assets/images/screenshots/search-interface.png)
+![Search Results](assets/images/screenshots/search-results.png)
+![Voice Search](assets/images/screenshots/search-voice.png)
+
+---
+
+### 🎧 Media Details
+
+![Album Details](assets/images/screenshots/details-album.png)
+![Artist Details](assets/images/screenshots/details-artist.png)
+![Playlist Details](assets/images/screenshots/details-playlist.png)
+
+---
+
+### 📚 Library & Collections
+
+![Favorites](assets/images/screenshots/library-favorites.png)
+![Collections](assets/images/screenshots/library-collections-1.png)
+![Collections](assets/images/screenshots/library-collections-2.png)
+
+---
+
+### ⭐ Extra Features
+
+![Track Menu](assets/images/screenshots/track-menu.png)
+![Audio Quality](assets/images/screenshots/audio-quality.png)
+![History](assets/images/screenshots/history.png)
 
 ---
 
